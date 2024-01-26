@@ -1,0 +1,27 @@
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 20px;
+    font-family: Roboto;
+   
+}
+body {
+    background-color: whitesmoke;
+}
+.container {
+    width: 100%;
+}
+
+div {
+    width: 1000px;
+    margin: auto;
+}
+
+
+
+
+button.project {
+    text-decoration: none;
+    color: red;
+}
